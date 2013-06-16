@@ -1,0 +1,6 @@
+<level width="1600" height="1200">
+  <Solids exportMode="GridRectangles">
+    <rect x="0" y="0" w="20" h="25" />
+    <rect x="83" y="32" w="6" h="14" />
+  </Solids>
+</level>
